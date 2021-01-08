@@ -17,5 +17,5 @@ Sitenin 5 sayfası vardır, Anasayfa sayfasında haftanın yazarı ve kitabı bu
 
 ## İletişim
 
-*Hakime Cemre Öner -hakime.oner@org.sakarya.edu.tr
-*Beyza Ak -beyza.ak@ogr.sakarya.edu.tr 
+Hakime Cemre Öner -hakime.oner@org.sakarya.edu.tr
+Beyza Ak -beyza.ak@ogr.sakarya.edu.tr 
