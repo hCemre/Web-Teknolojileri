@@ -1,4 +1,4 @@
-📚 BookStore — Online Book Selling Website
+# BookStore — Online Book Selling Website
 
 ✨ Features
 
@@ -37,4 +37,5 @@ HTML5
 CSS3
 
 JavaScript
+
 
