@@ -2,13 +2,6 @@
 
 Projemiz kitap satışı yapan bir web sitesidir. Sitemizde anasayfa, üye girişi sayfası, kayıt ol sayfası, ürün sayfası ve iletişim sayfası bulunmaktadır.
 
-### Neler Kullandık
-
-Projemizi yaparken kullandığımız diller;
-* html
-* css
-* javascript
-
 
 ## Kullanım
 
@@ -19,3 +12,4 @@ Sitenin 5 sayfası vardır, Anasayfa sayfasında haftanın yazarı ve kitabı bu
 
 Hakime Cemre Öner -hakime.oner@org.sakarya.edu.tr
 Beyza Ak -beyza.ak@ogr.sakarya.edu.tr 
+
