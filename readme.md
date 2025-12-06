@@ -1,15 +1,23 @@
-## Proje Hakkında
+📚 BookStore — Online Book Selling Website
 
-Projemiz kitap satışı yapan bir web sitesidir. Sitemizde anasayfa, üye girişi sayfası, kayıt ol sayfası, ürün sayfası ve iletişim sayfası bulunmaktadır.
+✨ Features
 
+🏠 Home Page: Weekly featured author and book
+🔐 Login & Registration: Create an account or sign in to an existing one
+📚 Products Page: Browse available books and add them to the cart
+🛒 Cart Functionality: Add desired items (basic cart flow)
+📞 Contact Page: Access company contact details
 
-## Kullanım
+🚀 Usage
 
-Sitenin 5 sayfası vardır, Anasayfa sayfasında haftanın yazarı ve kitabı bulunmaktadır.Sitemize kayıt ol sayfasından kayıt olabilir, giriş yap sayfasından daha önceden kaydınız varsa giriş yapabilirsiniz. Ürünler sayfasından ürünlere bakabilir, ve sepete ekleyebilirsiniz. İletişim sayfamızdan bilgilerimize ulaşabilirsiniz. 
+The website consists of 5 main pages:
+Home – Displays the featured author and book of the week.
+Register – New users can create an account.
+Login – Returning users can sign in.
+Products – Users can view available books and add them to their cart.
+Contact – Shows contact information for inquiries.
 
-
-## İletişim
-
-Hakime Cemre Öner -hakime.oner@org.sakarya.edu.tr
-Beyza Ak -beyza.ak@ogr.sakarya.edu.tr 
-
+🛠️ Tech Stack
+HTML5
+CSS3
+JavaScript
